@@ -11,9 +11,9 @@ This app is a platform to help event organisers target specific locations. An or
 
 ### Team members
 
-- Robert Anderson
-- Olivia Vane
 - David Voong
+- Olivia Vane
+- Robert Anderson
 
 ### Presentation
 The [presentation slides are available here](https://github.com/shamp00/HugsNotThugs/raw/master/Demo/Hugs not Thugs.pdf)
