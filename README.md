@@ -7,5 +7,7 @@ HugsNotThugs aims to provide creative activites for vulnerable teenagers in crim
 
 This app is a platform to help event organisers target specific locations. An organiser can create a new event and specify the radius in meters. Youth clubs, schools and teenagers will then be informed of the nearby events, filtered by interest if desired.
 
-   ![Lights, Camera, Action!](https://github.com/shamp00/HugsNotThugs/raw/master/Demo/HugsNotThugs_InterfaceMockup_map.jpg)
+   ![Demo](https://github.com/shamp00/HugsNotThugs/raw/master/Demo/HugsNotThugs_InterfaceMockup_map.jpg)
+
+The [presentation slides are available here](https://github.com/shamp00/HugsNotThugs/raw/master/Demo/Hugs not Thugs.pdf)
 
