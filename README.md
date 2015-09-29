@@ -1,5 +1,5 @@
-HugsNotThugsApp
-================
+Hugs Not Thugs
+==============
 
    ![Logo](https://github.com/shamp00/HugsNotThugs/raw/master/Demo/Hugs_not_Thugs-018.png)
 
