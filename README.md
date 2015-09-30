@@ -15,6 +15,8 @@ This app is a platform to help event organisers target specific locations. An or
 - Olivia Vane
 - Robert Anderson
 
+Shout out to [@Sterlingg](https://github.com/Sterlingg/SocialNetworkApp) whose code served as the starting point for our solution.
+
 ### Presentation
 The [presentation slides are available here](https://github.com/shamp00/HugsNotThugs/raw/master/Demo/Hugs not Thugs.pdf)
 
@@ -23,5 +25,4 @@ The [presentation slides are available here](https://github.com/shamp00/HugsNotT
 
 ### iPhone mockup
    ![Demo](https://github.com/shamp00/HugsNotThugs/raw/master/Demo/Hugs_not_Thugs-038.png)
-
 
